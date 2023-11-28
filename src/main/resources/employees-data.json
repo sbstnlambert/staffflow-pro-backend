@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Sophie Dubois",
+    "email": "sophie.dubois@email.com",
+    "jobTitle": "Marketing Coordinator",
+    "phone": "+32 123456789",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Bailey"
+  },
+  {
+    "name": "Thomas Van den Berg",
+    "email": "thomas.vandenberg@email.com",
+    "jobTitle": "Software Developer",
+    "phone": "+32 987654321",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Annie"
+  },
+  {
+    "name": "Yassin El-Mansour",
+    "email": "yassin.elmansour@email.com",
+    "jobTitle": "Financial Analyst",
+    "phone": "+32 456789012",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Bandit"
+  },
+  {
+    "name": "Emma De Smet",
+    "email": "emma.desmet@email.com",
+    "jobTitle": "Human Resources Manager",
+    "phone": "+32 345678901",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Boots"
+  },
+  {
+    "name": "Lucas Claes",
+    "email": "lucas.claes@email.com",
+    "jobTitle": "Graphic Designer",
+    "phone": "+32 234567890",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Abby"
+  },
+  {
+    "name": "Aya Abidi",
+    "email": "aya.abidi@email.com",
+    "jobTitle": "Customer Service Representative",
+    "phone": "+32 876543210",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Bear"
+  },
+  {
+    "name": "Maxime Lefevre",
+    "email": "maxime.lefevre@email.com",
+    "jobTitle": "Sales Manager",
+    "phone": "+32 567890123",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Angel"
+  },
+  {
+    "name": "Lotte Janssen",
+    "email": "lotte.janssen@email.com",
+    "jobTitle": "IT Support Specialist",
+    "phone": "+32 109876543",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Bella"
+  },
+  {
+    "name": "Hamza Al-Madi",
+    "email": "hamza.almadi@email.com",
+    "jobTitle": "Project Manager",
+    "phone": "+32 876543210",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Baby"
+  },
+  {
+    "name": "Nina Wouters",
+    "email": "nina.wouters@email.com",
+    "jobTitle": "Research Scientist",
+    "phone": "+32 345678901",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Bubba"
+  },
+  {
+    "name": "Rafael Mbemba",
+    "email": "rafael.mbemba@email.com",
+    "jobTitle": "Data Analyst",
+    "phone": "+32 234567890",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Boo"
+  },
+  {
+    "name": "Eva Hermans",
+    "email": "eva.hermans@email.com",
+    "jobTitle": "Administrative Assistant",
+    "phone": "+32 987654321",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Buster"
+  },
+  {
+    "name": "Ayoub El-Hassan",
+    "email": "ayoub.elhassan@email.com",
+    "jobTitle": "Quality Assurance Engineer",
+    "phone": "+32 123456789",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Bob"
+  },
+  {
+    "name": "Amelie Dupont",
+    "email": "amelie.dupont@email.com",
+    "jobTitle": "Public Relations Specialist",
+    "phone": "+32 567890123",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Callie"
+  },
+  {
+    "name": "Jasper Maes",
+    "email": "jasper.maes@email.com",
+    "jobTitle": "Legal Counsel",
+    "phone": "+32 876543210",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Buddy"
+  },
+  {
+    "name": "Mia De Vries",
+    "email": "mia.devries@email.com",
+    "jobTitle": "Product Manager",
+    "phone": "+32 234567890",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=George"
+  },
+  {
+    "name": "Mohammed Ali",
+    "email": "mohammed.ali@email.com",
+    "jobTitle": "Supply Chain Analyst",
+    "phone": "+32 109876543",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Cali"
+  },
+  {
+    "name": "Sofie Peeters",
+    "email": "sofie.peeters@email.com",
+    "jobTitle": "Event Coordinator",
+    "phone": "+32 345678901",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Casper"
+  },
+  {
+    "name": "Vincent Van Damme",
+    "email": "vincent.vandamme@email.com",
+    "jobTitle": "UX/UI Designer",
+    "phone": "+32 876543210",
+    "imageUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Gizmo"
+  }
+]
